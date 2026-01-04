@@ -63,7 +63,7 @@ A Python CLI tool that shortens long URLs into compact links for easier sharing.
 ## 📂 How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone : https://github.com/Ravindra9759/Labrary_managements_system.git
 
 
 
