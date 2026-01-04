@@ -1,0 +1,25 @@
+{
+  "books": {
+    "R878778": {
+      "isbn": "R878778",
+      "title": "hhjjhg",
+      "author": "RS",
+      "borrowed": false,
+      "file_size": 5.0
+    }
+  },
+  "users": {
+    "U1": {
+      "user_id": "U1",
+      "name": "Ravindra",
+      "role": "Admin",
+      "password": "admin123"
+    },
+    "U2": {
+      "user_id": "U2",
+      "name": "Vinod",
+      "role": "member",
+      "password": null
+    }
+  }
+}
